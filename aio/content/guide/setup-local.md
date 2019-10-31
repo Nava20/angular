@@ -43,7 +43,7 @@ To check that you have the npm client installed, run `npm -v` in a terminal/cons
 
 ## Step 1: Install the Angular CLI
 
-You use the Angular CLI 
+You use the Angular CLI Tools
 to create projects, generate application and library code, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
 
 Install the Angular CLI globally. 
